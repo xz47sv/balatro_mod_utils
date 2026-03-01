@@ -1,13 +1,13 @@
 {
 	"id": "mod_utils",
-	"name": "Mod Utils",
-	"author": ["ash"],
+	"name": "ModUtils",
+	"author": ["xz47sv"],
 	"description": "Adds mod utilities",
 	"prefix": "mod_utils",
 	"main_file": "init.lua",
 	"priority": -9223372036854775808,
 	"badge_text_colour": "FFFFFF",
-	"display_name": "Mod Utils",
+	"display_name": "ModUtils",
 	"version": "0.1.0",
 	"dependencies": [
 		"Steamodded (>=1.*)",
