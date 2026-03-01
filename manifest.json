@@ -1,0 +1,17 @@
+{
+	"id": "mod_utils",
+	"name": "Mod Utils",
+	"author": ["ash"],
+	"description": "Adds mod utilities",
+	"prefix": "mod_utils",
+	"main_file": "init.lua",
+	"priority": -9223372036854775808,
+	"badge_text_colour": "FFFFFF",
+	"display_name": "Mod Utils",
+	"version": "0.1.0",
+	"dependencies": [
+		"Steamodded (>=1.*)",
+		"Lovely (>=0.8)"
+	],
+	"conflicts": []
+}

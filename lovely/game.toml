@@ -1,0 +1,12 @@
+[manifest]
+version = "1.0.0"
+dump_lua = true
+priority = -5
+
+[[patches]]
+[patches.pattern]
+target = "game.lua"
+pattern = "G:save_settings()"
+position = "before"
+payload = "UTILS.run_start_hooks()"
+match_indent = true
