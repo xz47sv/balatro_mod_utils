@@ -8,10 +8,10 @@
 	"priority": -9223372036854775808,
 	"badge_text_colour": "FFFFFF",
 	"display_name": "ModUtils",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"dependencies": [
-		"Steamodded (>=1.*)",
-		"Lovely (>=0.8)"
+		"Steamodded (>=1.0.0~BETA-1503a)",
+		"Lovely (>=0.9)"
 	],
 	"conflicts": []
 }
